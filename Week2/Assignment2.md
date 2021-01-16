@@ -38,7 +38,7 @@ warnings.filterwarnings('ignore') #
 
 
 df = pd.read_csv("data/C2A2_data/BinnedCsvs_d400/fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv")
-
+#---- file reading >>>>         insert:    ^400^/___________________hashID__________________________.csv
 df.sort_values('Date', inplace=True)
   
 
@@ -265,4 +265,6 @@ plt.show()
 
 # Final Plot Image:
 
-![alt text](https://github.com/mgteus/AppliedPlotting_ChartingAndDataRepresentationInPython/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/mgteus/AppliedPlotting_ChartingAndDataRepresentationInPython/blob/main/Week2/finalplotA2.png?raw=true)
+
+
