@@ -6,6 +6,6 @@ Files and programming assingments from University of Michigan (Coursera's Online
 *WEEK* | *GRADES*
 -------|----------
    1   |  15/15    
-   2   |     
+   2   |  15/15 
    3   |  
    4   |  
