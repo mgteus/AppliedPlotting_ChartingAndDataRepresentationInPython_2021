@@ -6,8 +6,8 @@ The y-axis' range matters!
 Locate an example of a misleading visual that uses one or more of the mechanisms for misleading that Cairo outlines in his book chapter: (1) Hiding relevant data; (2) Displaying too much data and obscuring reality; (3) Distorting data through visual forms.
 Please upload an image of this visual using a widely accessible graphic format (e.g., PDF, .jpg, .png)**
 
-assgiment1AppliedChart.webp×
-![alt text](https://github.com/mgteus/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/mgteus/AppliedPlotting_ChartingAndDataRepresentationInPython/blob/main/Week1/assgiment1AppliedChart.webp?raw=true)
 
 ## **Name:**
 
