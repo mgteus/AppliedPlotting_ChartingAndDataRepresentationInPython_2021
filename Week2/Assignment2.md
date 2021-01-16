@@ -261,3 +261,8 @@ plt.gca().fill_between(days,
 plt.show()
 
 ```
+
+
+# Final Plot Image:
+
+![alt text](https://github.com/mgteus/AppliedPlotting_ChartingAndDataRepresentationInPython/blob/main/image.jpg?raw=true)
