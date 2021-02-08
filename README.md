@@ -7,5 +7,7 @@ Files and programming assingments from University of Michigan (Coursera's Online
 -------|----------
    1   |  15/15    
    2   |  15/15 
-   3   |  
-   4   |  
+   3   |  11/11
+   4   |  15/15
+   
+  
